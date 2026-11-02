@@ -1,0 +1,18 @@
+{
+  "cnchar-info.json": {
+    "url": "https://raw.githubusercontent.com/theajack/cnchar/master/src/cnchar/plugin/info/dict/info.json",
+    "sha256": "53985eaccdd5e14b808e0a8ba0f524a18a1da15338d6d22f73ef9a61001ed423"
+  },
+  "five-element.json": {
+    "url": "https://raw.githubusercontent.com/theajack/cnchar/master/src/cnchar/plugin/info/dict/five-element.json",
+    "sha256": "8b23b66dbd1e81074ceaee0620cc067befd9bda1cc0ea889a4e529e4c9daead6"
+  },
+  "wuxing.json": {
+    "url": "https://raw.githubusercontent.com/James88/qiming/main/data/wuxing_dict_jianti.json",
+    "sha256": "6359ea84a7a005d4ebba36472725ab7fb976055fb52195a33a80b31ac98d16aa"
+  },
+  "naming-dict.json": {
+    "url": "https://raw.githubusercontent.com/cicbyte/ai-chinese-naming/master/src-tauri/data/dict.json",
+    "sha256": "97148525f79d2b3b4bbb1462b189933a1638eb9713150abc0d4c2ce44c071857"
+  }
+}
